@@ -1,3 +1,4 @@
 [build]
+  # Static HTML and image assets live at the repository root.
   command = ""
   publish = "."
